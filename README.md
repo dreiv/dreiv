@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I create example apps mainly about angular and react concepts. I have a passion for learning and sharing my knowledge with others. If you found value in something I created, please feel free to [reach out to me](dreivoicu@gmail.com).
+I create example apps mainly about angular and react concepts. I have a passion for learning and sharing my knowledge with others. If you found value in something I created, please feel free to reach out to me.
 
 <!--
 **dreiv/dreiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
